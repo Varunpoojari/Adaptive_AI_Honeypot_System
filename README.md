@@ -1,4 +1,4 @@
-# 🎯 Adaptive AI Honeypot System
+# 🎯 Adaptive AI Honeypot System with Attacker Behavioral Profiling
 
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
