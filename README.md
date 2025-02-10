@@ -5,9 +5,6 @@
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![GitHub Issues](https://img.shields.io/github/issues/Varunpoojari/adaptive-ai-honeypot.svg)](https://github.com/Varunpoojari/adaptive-ai-honeypot/issues)
 
-<div align="center">
-  <img src="docs/images/honeypot-banner.svg" alt="Honeypot Banner" width="400"/>
-</div>
 
 ## 📋 Table of Contents
 - [Overview](#-overview)
