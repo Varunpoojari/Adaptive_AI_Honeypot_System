@@ -6,7 +6,7 @@
 [![GitHub Issues](https://img.shields.io/github/issues/Varunpoojari/adaptive-ai-honeypot.svg)](https://github.com/Varunpoojari/adaptive-ai-honeypot/issues)
 
 <div align="center">
-  <img src="docs/images/honeypot-banner.svg" alt="Honeypot Banner" width="600"/>
+  <img src="docs/images/honeypot-banner.svg" alt="Honeypot Banner" width="400"/>
 </div>
 
 ## 📋 Table of Contents
