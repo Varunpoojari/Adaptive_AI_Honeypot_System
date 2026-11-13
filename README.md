@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub Issues](https://img.shields.io/github/issues/Varunpoojari/adaptive-ai-honeypot.svg)](https://github.com/Varunpoojari/adaptive-ai-honeypot/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/Varunpoojari/Adaptive_AI_Honeypot_System.svg)](https://github.com/Varunpoojari/Adaptive_AI_Honeypot_System/issues)
 
 
 ## 📋 Table of Contents
@@ -74,8 +74,8 @@ graph TD
 ### Step-by-Step Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Varunpoojari/adaptive-ai-honeypot.git
-   cd adaptive-ai-honeypot
+   git clone https://github.com/Varunpoojari/Adaptive_AI_Honeypot_System.git
+   cd Adaptive_AI_Honeypot_System
    ```
 
 2. **Create Virtual Environment**
